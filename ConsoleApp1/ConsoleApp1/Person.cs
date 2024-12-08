@@ -2,9 +2,16 @@
 
 public class Person(string firstname, string lastname, DateOnly birthday)
 {
-    public string Firstname { get; } = firstname;
+    public string First { get; } = firstname;
 
-    public string Lastname { get; } = lastname;
+    public string Last { get; } = lastname;
 
     public DateOnly Birthday { get; } = birthday;
+
+    public List<Pet> Pets { get; } = new();
+     
+    public override string ToString()
+    {
+        return $"Human {First} {Last}";
+    }
 }
