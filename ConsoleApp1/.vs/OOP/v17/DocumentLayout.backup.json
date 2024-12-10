@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\projects\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|c:\\projects\\projects\\consoleapp1\\consoleapp1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|c:\\projects\\projects\\consoleapp1\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|c:\\projects\\projects\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|c:\\projects\\projects\\consoleapp1\\consoleapp1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8461783C-6A7C-46FA-8038-CE227317DF42}|ConsoleApp1\\OOP.csproj|c:\\projects\\projects\\consoleapp1\\consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -40,11 +40,10 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Cat.cs",
               "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Cat.cs",
               "RelativeToolTip": "ConsoleApp1\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T07:00:39.708Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -57,44 +56,42 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T07:02:02.107Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Pet.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Pet.cs",
-              "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Pet.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Pet.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:12:43.998Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Pet.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Pet.cs",
+              "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Pet.cs",
+              "RelativeToolTip": "ConsoleApp1\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:12:43.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T13:42:59.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Person.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Person.cs",
-              "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Person.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Person.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Projects\\projects\\ConsoleApp1\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T13:59:56.869Z",
               "EditorCaption": ""
